@@ -1,5 +1,8 @@
 # Favorite Hobbies
 Sierra 
+
+![Some text of what the picture is](Sierra.JPG)
+
 This site is about Sierra's hobbies which are *amazing*
 
 ![Some text of what the picture is](Travel.JPG)
