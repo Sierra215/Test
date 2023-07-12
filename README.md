@@ -5,7 +5,7 @@ Sierra
 
 This site is about Sierra's favorite hobby which is *Traveling*
 
->Traveling is the action of going to different places
+>Traveling is the action of going to different places. 
 
 ![Some text of what the picture is](Travel.JPG)
 
