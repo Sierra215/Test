@@ -9,6 +9,6 @@ Some of my favorite hobbies
 2. Learning about different cultures
 3. Reading
 
-
+![Some text of what the picture is](picture.jpeg)
 
 
