@@ -11,7 +11,7 @@ This site is about Sierra's favorite hobby which is *Traveling*
 
 **Why Traveling is my favorite Hobby**
 1. I like traveling because you get to explore different cultures
-2. Another reason why I like traveling is because I get to escape my everday life
+2. Another reason why I like traveling is because I get to escape my everyday life
 3. My last reason why I like traveling is that I get to explore different sceneries in different countries and states
 
 
